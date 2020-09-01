@@ -16,3 +16,5 @@ yarn
 core
 mapreduce
 workers
+linux
+mycluster
